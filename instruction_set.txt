@@ -1,0 +1,72 @@
+counted			67		/	67
+implemented		10	/	67
+
+		type	counted	implemented
+
+adc		A		1		
+add		A		1		
+and		L		1		
+bit		B		1		
+call	C		1		
+ccf		F		1		
+cp		C		1		
+cpd		C		1		
+cpdr	C		1		
+cpir	C		1		
+cpi		C		1		
+cpl		B		1		
+daa		A		1		
+dec		A		1		
+di		I		1		
+djnz	C		1		
+ei		I		1		
+ex		M		1		1
+exx		M		1		1
+halt	C		1		
+im		I		1		
+in		D		1		1
+inc		A		1		
+ind		D		1		
+indr	D		1		
+ini		D		1		
+inir	D		1		
+jp		C		1		
+jr		C		1		
+ld		M		1		1
+ldd		M		1		1
+lddr	M		1		1
+ldi		M		1		1
+ldir	M		1		1
+neg		A		1		
+nop		C		1		
+or		L		1		
+otdr	D		1		
+otir	D		1		
+out		D		1		
+outd	D		1		
+outi	D		1		
+pop		M		1		1
+push	M		1		1
+res		B		1		
+ret		C		1		
+reti	C		1		
+retn	C		1		
+rl		R		1		
+rla		R		1		
+rlc		R		1		
+rlca	R		1		
+rld		R		1		
+rr		R		1		
+rra		R		1		
+rrc		R		1		
+rrca	R		1		
+rrd		R		1		
+rst		C		1		
+sbc		A		1		
+scf		F		1		
+set		B		1		
+sla		S		1		
+sra		S		1		
+srl		S		1		
+sub		A		1		
+xor		L		1		
